@@ -1,7 +1,7 @@
 // CONFIGURAÇÕES - Altere os valores abaixo para personalizar o efeito!
 const TEXTO_PERSONALIZADO = "I Love You"; // Texto que será repetido para formar o coração
-const COR_DO_TEXTO = "#0bb7fc";        // Cor rosa/vermelha
-const COR_DO_BRILHO = "#ff3434e5";       // Cor do brilho ao fundo (Neon)
+const COR_DO_TEXTO = "#b00bfc";        // Cor rosa/vermelha
+const COR_DO_BRILHO = "#eecc83e5";       // Cor do brilho ao fundo (Neon)
 const TAMANHO_CORACAO = 20;            // Quanto maior o número, maior o coração
 const QUANTIDADE_PALAVRAS = 150;       // Mais palavras deixam o formato mais definido
 
